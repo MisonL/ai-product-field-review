@@ -1,0 +1,26 @@
+{
+  "name": "ai-product-field-review",
+  "version": "0.1.0",
+  "description": "面向 AI 产品、Agent 方案和企业工作流的现场审查插件。",
+  "author": {
+    "name": "Mison"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI 产品现场审查",
+    "shortDescription": "用真实工作流证据审查 AI 产品。",
+    "longDescription": "AI 产品现场审查是一套面向 AI 产品、Agent 方案和企业工作流自动化的审查协议。它用于检查 PRD、发布计划、共创反馈、竞品策略和产品复盘，重点识别定位失焦、用户证据失真、默认值代价、指标漂移、组织节奏扭曲、叙事债和长期能力债。",
+    "developerName": "Mison",
+    "category": "Productivity",
+    "capabilities": [
+      "审查",
+      "规划",
+      "分析"
+    ],
+    "defaultPrompt": [
+      "审查这份 AI 产品 PRD 的隐藏风险。",
+      "检查这个 Agent 方案是否适配真实工作流。",
+      "按用户证据审计我们的发布计划。"
+    ]
+  }
+}

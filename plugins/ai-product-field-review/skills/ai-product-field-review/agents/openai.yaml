@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品现场审查"
+  short_description: "审查 AI 产品与 Agent 真实工作流和发布风险"
+  default_prompt: "Use $ai-product-field-review to review this AI product plan against real workflow evidence."

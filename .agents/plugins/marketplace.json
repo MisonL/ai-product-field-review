@@ -1,0 +1,20 @@
+{
+  "name": "ai-product-field-review",
+  "interface": {
+    "displayName": "AI Product Field Review"
+  },
+  "plugins": [
+    {
+      "name": "ai-product-field-review",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ai-product-field-review"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
