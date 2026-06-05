@@ -16,11 +16,11 @@ AI Product Field Review 是一个 Codex 插件，用于审查 AI 产品、Agent 
 ### 从 GitHub 安装
 
 ```bash
-codex plugin marketplace add https://github.com/<owner>/ai-product-field-review
+codex plugin marketplace add https://github.com/MisonL/ai-product-field-review
 codex plugin add ai-product-field-review@ai-product-field-review
 ```
 
-`<owner>` 替换为实际 GitHub 用户名或组织名。`@ai-product-field-review` 是本仓库 marketplace 的名称，来自 `.agents/plugins/marketplace.json`。
+`@ai-product-field-review` 是本仓库 marketplace 的名称，来自 `.agents/plugins/marketplace.json`。
 
 ### 本地开发安装
 
